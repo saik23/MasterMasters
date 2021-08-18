@@ -1,0 +1,193 @@
+Grammar Notes:
+=============
+
+0. Other random stuff:
+	- consider sth. sth. and not consider sth. to be sth. or consider sth. as sth.
+	
+1. Infintives (Verbal - a verb that functions as adj, adv or a noun):
+	- verbs in the present tense form for a subject expressing the reason behind some actions are considered as infinitives.
+		Eg: I like (to read).
+			I use Youtube (to watch) stuff. 	- Noun
+			He's the guy (to call). 			- Adjective.
+			I can't wait (to see).				- Adverb
+	- Infintives are made of verbs but don't form verbs, instead they are adj, noun or adv.
+	
+	
+	- Bare infinitives: they do not have a "to" before the verb:
+		- I heard the dorbell (ring).
+		- They watched the ship (sail).
+		
+	- Split infinitive (frowned upon in formal written english).
+		- They decided (to carefully evaluate) each student's performance.
+			Other ways to say this, which doesn't make much sense:
+			- They decided carefully (to evaluate) each student's performance.
+			- They decided (to evaluate) carefully each student's performance.
+		
+2. Other verbals:
+	- Gerund: With an ing before the verb acting as a Noun.
+		- (Laughing) is good for health.
+		- I love (listening).
+		
+	- Participles: They act as adjectives.
+		- (Shooting) stars.
+		- (Burnt) marshmellows are my favourite.
+		
+		
+3. Subordinating clauses:
+	- When the subordinating clause starts with a relative pronoun such as who, whose, where, which, etc., the use of comma depends on the nature of clause. In writing, there are two patterns that use subordinating conjunctions:
+
+	- If the information provided in the relative clause is essential, we do not use a comma before the conjunction, in this way:
+			Main clause + Essential relative clause
+	- If the information provided in the relative clause is nonessential, we use a comma before the conjunction, in this way:
+			Main clause + , + Nonessential relative clause
+	- Further, we also use a comma when the dependent clause is placed first, in order to separate the two clauses. However, if the independent clause comes first, no comma is placed.
+	
+4. Nouns:
+
+	- Uncountable:
+		- Treated as singular.
+		- advice, information, news, furniture, luggage, health, justice, fun
+		
+	- Countable and uncountable:
+		- hair, paper, room, noise, time..
+		
+5. Verbs:
+	- Auxiliary verbs - is, be, will, shall, could
+	- Modals - will, shall, might, could  - used for permission, ability, necessity
+	- Infintives
+	- Sub verb agreement:
+		- set of subjects - are
+		- group - is
+	
+6. Pronouns:
+	- Indefinite pronouns:
+		- Singular - each, one, none, either, everyone, everybody, nobody, anything, somethig, someone -- always singular.
+			Execption - Everyone must buy their own ticket.
+		- Plural - both, many etc.
+			
+		- Both: all, any, more, most, none, some...
+			Most of time is spent doing situps.
+			Most of the students were absent.
+			
+	- Possessive pronouns:
+		- Its not it's
+		- Jack and Jill's pot (combined possesions)
+		- Jacks's and Jill's plates were shattered. (Individual possesion)
+	
+7. Prepositions:
+	- into
+	- Shows relationship of noun with sth else in terms of place, time and action in the sentence.
+	
+8. Adjectives:
+	- Paired adjectives:
+		- If they come after noun use and:
+			She went to the movie and says it was fabulous and enthralling.
+		- If they come before the noun:
+			- If they carry same meaning use a comma:
+				- She ate tasty, delicious food.
+			- If they carry different meaning no need of comma:
+				- She ate tasty indian dal rice.
+				
+Usage Notes:
+===========
+
+1. Articles:
+	- A, an: indefinite articles
+	- The definite article.
+		- used for specific things.
+		- used for things known to everyone (the sky)
+		- used to refer unique things (the parliament)
+	- No article with an uncountable noun. (advice, fax etc)
+		
+		
+2. Wrong words:
+
+	- Homonyms
+		- Homophones, Homographs (Guess you know what each means otherwise Norman Lewis would be pretty mad.)
+	- it's vs its (it is or it has vs possessive form of it)
+	- affect (verb) - have an effect/impact on sth vs effect (noun) - the impact vs effect (verb) - to bring about a change / feeling 
+	- quiet (adj) vs quite (adv)
+	- favourable (pleasing or impressing) vs favorite (most liked)
+	- infact is wrong (x) in fact (v)
+	
+Mechanics Notes:
+================
+
+1. Capital Letters:
+	- Proper nouns: places, names, historical events, dates, Proper adj, languages, words like father mother when used as proper nouns.
+	
+2. Spelling rules:
+	- i before e, except 
+		- before c
+		- with syllables sounding like ay: neighbor, weigh, heir
+
+3. Punctuation:
+	- Apostrophe:
+		- cannot - can't
+		- let us - let's
+		- its (possessive of it) vs it's (it is / it has)
+	
+	- The dreaded comma:
+		- with a conjunction to combine two clauses:
+			- The civil war has many reasons, and many martyrs.
+			- The exp was incomplete, but the learnings were significant.
+			
+		- Additional information at beginning or end of sentence, to separate the main idea from it.
+			- In the morning, he drank a cup of coffee and left for a run.
+			- It was a beautiful day to run, he said.
+			
+		- Listing three or more items:
+			- I had coffee, bread, and eggs for breakfast.
+			
+		- Two adjectives before a noun:
+			- The cold, rainy weather got me weak in my bones.
+			
+		- Additional information in the middle of the sentence, the other parts of the sentence should still make complete sense.
+			- Mr.John, the CEO of MicroLabs, invited us over for dinner.
+			
+	-Hyphen:
+		- Compound adj:
+			- two or more adjectives coming before a noun:
+				- He is a well-known philanthorpist.
+				- Not when the same occurs after the noun: His novels are well known for their drama.
+			
+		- Compound numbers:
+			- Fractions:
+				- three-quarters, one-half, four-sevenths
+			- Numbers greater than ""21"":
+				- He is sixty-three years old.
+			
+		- With prefixes: self, ex, great.
+			- self-explanatory.
+			- great-grandparents.
+			- ex-MLA
+		
+	- Final Punctuation:
+		- Period:
+			- at the end of indirect questions:
+				- Cindy asked me who would be taking notes at the meeting.
+		
+		
+Style Notes:
+============
+
+1. Word repetition:
+	- Try to use synonyms or pronouns or words like former, latter, etc., to eliminate excess repetition.
+	
+2. Passive sentence:
+	- Passive sentences are long and hard (that's what she said) to read. Think judiciously before using them.
+	- Should be limited to 5% of the whole text.
+	
+	- When the action is more important the actor:
+		- The theater was opened last month. (Theater opening is more imp than who opened it)
+	- When the receiver of the action is more imp than the actor:
+		- The letters were faxed this morning. (Letters > person who sent).
+		
+	--- Basically when you want to sound objective, pay more attention to anything other than the subject -> PASSIVE..
+	
+3. Long Short:
+	- Long sentence and short sentence mixture -> Try to break a sentence if it's too long, and in combination with other long ones, to two short sentences.
+	
+4. Beginning with coordinating conjunctions:
+	- So I started writing this and realised it's a mistake.
+	- Try to avoid starting too many sentences with coordinating conjunctions.

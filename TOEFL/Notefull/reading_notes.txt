@@ -1,0 +1,108 @@
+Reading:
+
+1st section of TOEFL..
+
+- Detail
+- Purpose of something.
+- Vocab
+
+How to read:
+	- Read the first sentences of each passage.
+	- Outline each passage with a single word each time.
+	- Try to re-iterate the story of the paragraph with the words written.
+	- Read in chunks (10 words at a time)
+	
+	- after reading the first time try to answer these questions:
+		- what is the main purpose of the passage? (Thesis)
+		- what is the content style (compare, descriptive, solution to a problem etc.)
+		
+How to answer:
+
+1. Know thy question:
+	- Read each word from the question carefully paying attention to double negatives and switch backs.
+	- Identify the keywords to look for in the paragraph.
+	- Identify the answer sentence while reading the paragraph.
+	
+2. Prephrase the answer before looking at the choices... Each option is a trap except the correct one.
+	- ** Read each word from each option carefully paying attention to double negatives and switch backs.
+
+3. POE:	
+	- Yes / No / Maybe for each option.
+		- Reset if not able to decide 
+			** -> read the question again, paraphrase the answer again and then begin elimination.
+		- Final choices elimination using better/worst method.	
+
+Vocab:
+
+1. If you know the meaning:
+	- 1, 2
+	- double check the answer by replacing the word in the paragraph and reading it..
+
+2. If you don't:
+	- Read a few lines before and after to understand the meaning from context
+	- Prephrase the answer, don't check options yet
+	- Pick answer.
+	- Double check finally.	
+	
+	
+Plug-in:
+
+1. Know thy sentence: Read, comprehend, grab the keywords.
+2. Prephrase the answer: what do you expect to read before this sentence, what do you expect to read after the sentence.
+3. POE by placing the sentence in each option.
+	- Use keywords, adverbs, general sentence first followed by specific sentence strategy etc.
+	
+	
+	
+			------------------------------------------- Official Guide -----------------------------------------------
+			
+1. Three types of passages:
+	- Exposition
+	- Argumentation
+	- Historical
+	
+2. Organization of the passage:
+	- Classification
+	- Cause/Effect
+	- Compare/Contrast
+	- Problem/Solution.
+	
+3. Question types:
+	Basic info and Inference type:
+		- Factual information: Check the passage.
+		- Negative factual information: Longer than factual information.
+		- Inference **: what can you infer -> given a comparison ~ whats the base, given an affect whats the cause
+		- Rhetorical purpose **: why instead of what; "to illustrate", "to note", "to contrast", "to refute", "to criticize", "to explain"
+		- Vocabulary: Substitute and check
+		- Reference: Substitute and check
+		- Sentence simplification: Leaves out info or is wrong **
+		- Sentence insertion: 
+					- Both previous and later sentences should correspond. 
+					- Pronouns or grammatical connections matter, can serve as clues. 
+					- Check for introductory or conclusive sentence fit, logical flow of ideas, switchbakc and transition words.
+					- generalisation followed by details. concept followed by examples.
+	
+	Reading to learn:
+		- Prose summary: organization, purpose of the passage, major vs minor points..
+		- Table:
+		
+			----------------------------------------------------------------------------------------------------------
+		
+Mistakes:
+
+1. Read the question with utmost care										x1
+	- especially in case of paraphrase type questions
+	
+2. Inference type - infer what you can only from the passage/paragraph 		x3
+	- don't try to draw inferences from memory or imagination, stick to 2, 3 lines before or after the line in question.
+	- it shouldn't oppose the main idea of the passage.
+	- You should be able to point to a line in the passage for proof.
+	
+3. Better strategy:															x1
+	- Skim the passage then identify key points, passage point and move on to questions.		
+
+4. Insert a sentence														x1
+	- Check if the given sentence introduces a concept and is detailed later. Intro first -> detail next..
+	- The sentence has to have something in common with the previous one and the later one.
+	
+5. 
